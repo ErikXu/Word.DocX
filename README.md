@@ -1,2 +1,2 @@
 # Word.DocX
-An Example about The Usage of DocX.
+An example about the usage of DocX.
